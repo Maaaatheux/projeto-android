@@ -1,1 +1,1 @@
-Artigo feito por mim através do curso em vídeo do Gustavo Guanabara.
+Artigo simples feito por mim como desafio e forma de testar minhas habilidades.
